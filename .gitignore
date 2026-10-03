@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+agent_env/
+venv/
+.venv/
+
+# Local data
+data/
